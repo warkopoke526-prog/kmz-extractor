@@ -1,0 +1,19 @@
+{
+  "name": "kmz-extractor-web-v4",
+  "version": "4.0.0",
+  "description": "KMZ to Excel FTTH GIS Data Normalizer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "kmz",
+    "kml",
+    "gis",
+    "ftth",
+    "excel",
+    "converter"
+  ],
+  "author": "",
+  "license": "MIT"
+}
